@@ -2,6 +2,7 @@ Career Development Resources
 
 - Interview
 	- [Interview Warmup - Grow with Google](https://grow.google/certificates/interview-warmup/)
+ 		- This is a good way to practice answering common tech interview questions. You can choose the field you want to practice interviewing for and follow the prompts.
 	- [Answering “Tell Me About Yourself” in an Interview in 2023 | The Muse](https://www.themuse.com/advice/tell-me-about-yourself-interview-question-answer-examples)
 	- [How To Introduce Yourself Professionally (With Examples) | Indeed.com](https://www.indeed.com/career-advice/career-development/introduce-yourself-professionally)
 - Professional Networking

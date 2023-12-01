@@ -8,6 +8,7 @@ Career Development Resources
 	- [Job Skills](./skills.md)
 	- [Action Verbs](./action_verbs.md)
 - Interview
+	- [The STAR Method: The Secret to Acing Your Next Job Interview - The Muse](https://www.themuse.com/advice/star-interview-method)
 	- [Interview Warmup - Grow with Google](https://grow.google/certificates/interview-warmup/)
  		- This is a good way to practice answering common tech interview questions. You can choose the field you want to practice interviewing for and follow the prompts.
 	- [Answering “Tell Me About Yourself” in an Interview in 2023 - The Muse](https://www.themuse.com/advice/tell-me-about-yourself-interview-question-answer-examples)

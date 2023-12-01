@@ -1,11 +1,11 @@
 # Action Verbs
 When listing your past experience, it's more effective to use action verbs to describe your accomplishments (try adding some [strong adverbs](https://www.standout-cv.com/usa/resume-adverbs) for emphasis). 
 
-For example, instead of:
-"Responsible for handling a high volume of inbound customer requests per day"
+    For example, instead of:
+    "Responsible for handling a high volume of inbound customer requests per day"
 
-Try:
-"Successfully managed 50-70 inbound customer requests per day, consistently ranking in the top 5% of all support associates"
+    Try:
+    "Successfully managed 50-70 inbound customer requests per day, consistently ranking in the top 5% of all support associates"
 
 Here's a starting list of some examples you can use to make your resume stand out.
 

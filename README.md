@@ -1,7 +1,7 @@
 Career Development Resources
 
 - Resume
-	- 
+	- [Top Soft Skills Employers Value With Examples](https://www.thebalancemoney.com/list-of-soft-skills-2063770)
 - Interview
 	- [Interview Warmup - Grow with Google](https://grow.google/certificates/interview-warmup/)
  		- This is a good way to practice answering common tech interview questions. You can choose the field you want to practice interviewing for and follow the prompts.

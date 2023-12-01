@@ -1,5 +1,8 @@
 Career Development Resources
 
+- General
+	- [My Next Move](https://www.mynextmove.org){target='_blank'}
+		- If you're not sure what you want your career to be, this site has resources to help you discover careers using keywords, browsing by industry, or by answering a series of questions about the type of work you might enjoy.
 - Resume
 	- [Top Soft Skills Employers Value With Examples](https://www.thebalancemoney.com/list-of-soft-skills-2063770)
 	- [Job Skills](./skills.md)

@@ -1,5 +1,7 @@
 Career Development Resources
 
+- Resume
+	- 
 - Interview
 	- [Interview Warmup - Grow with Google](https://grow.google/certificates/interview-warmup/)
  		- This is a good way to practice answering common tech interview questions. You can choose the field you want to practice interviewing for and follow the prompts.
@@ -16,3 +18,6 @@ Career Development Resources
 - Work Values
 	- [Why Your Work Values Are Essential To Career Satisfaction](https://www.forbes.com/sites/carolinecastrillon/2020/09/20/why-your-work-values-are-essential-to-career-satisfaction/)
 	- [Networking For A Career Change -- Seven Contacts To Prioritize](https://www.forbes.com/sites/carolinecenizalevine/2018/04/15/networking-for-a-career-change-seven-contacts-to-prioritize/)
+- LinkedIn
+	- [14 LinkedIn Profile Summaries That We Love (And How to Boost Your Own)](https://www.linkedin.com/business/talent/blog/product-tips/linkedin-profile-summaries-that-we-love-and-how-to-boost-your-own)
+	- [10 Eye-Catching LinkedIn Profile headlines to Inspire Your Own](https://www.linkedin.com/business/talent/blog/product-tips/recruiters-with-eye-catching-linkedin-profile-headlines)
